@@ -8,7 +8,7 @@ class Bakelite extends Skin {
 
 var $name = "Bakelite";
 var $version = "1.0";
-var $author = "eso";
+var $author = "grntbg";
 var $numberOfColors = 27;
 
 // Add stylesheets and a favicon to the page header.
